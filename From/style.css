@@ -10,12 +10,13 @@
 }
 .body{
     filter: blur(5px);
-    background-image: url("../forrest.jfif");
+    background-image: url("./forrest.jfif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
     top: 0;
+    left: 0;
     width: 100%;
     height: 100vh;
     z-index: -1;
